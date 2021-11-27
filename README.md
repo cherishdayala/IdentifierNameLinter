@@ -18,6 +18,4 @@ And outputs:
 
 - Output2 should contain name and location of all identifiers that violate the following naming convention, along with the rule that they violate.
 
-The naming convention rules can be found in the below mentioned link.
-
 ![image](https://user-images.githubusercontent.com/35199567/143667720-5513d777-5d74-440e-9653-c08923015e71.png)
